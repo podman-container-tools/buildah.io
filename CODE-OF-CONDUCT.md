@@ -1,3 +1,3 @@
-## The buildah.io Project Community Code of Conduct
+## The Podman Container Tools Project Community Code of Conduct
 
-The buildah.io project follows the [Containers Community Code of Conduct](https://github.com/containers/common/blob/main/CODE-OF-CONDUCT.md).
+The Buildah.io project, as part of Podman Container Tools, follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
